@@ -5,7 +5,6 @@ import {ProdutosService} from './produtos.service';
 @Component({
   selector: 'gal-produtos',
   templateUrl: './produtos.component.html',
-  styleUrls: ['./produtos.component.css']
 })
 export class ProdutosComponent implements OnInit {
 
