@@ -1,0 +1,21 @@
+<!-- INíCIO do CONTEÚDO -->
+<section class="content-header">
+  <h1>
+    Todos os produtos
+  </h1>
+</section>
+
+
+<section class="content">
+
+  <div class="row">
+    <div class="col-sm-6 col-xs-12" *ngFor="let produto of produtos">
+      <gal-produto [produtoModel]="produto"></gal-produto>
+      <!-- /.info-box -->
+    </div>
+    <!-- /.col -->
+  </div>
+
+</section>
+
+<!-- FIM  do CONTEÚDO -->
