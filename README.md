@@ -1,10 +1,4 @@
-# Meat - Angular App Starter
-
-## 1. Passos para começar
-
-### Clonando o Repositório
-
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
+# Galion Web Site
 
 ### Instalando as Dependências
 
